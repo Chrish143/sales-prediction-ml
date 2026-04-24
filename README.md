@@ -4,7 +4,7 @@
 
 This project focuses on analyzing e-commerce sales data and building a machine learning model to predict sales, combined with an interactive dashboard for business insights.
 
-It simulates a real-world marketplace environment similar to platforms like Myntra, helping identify trends in category performance, seller efficiency, and revenue distribution.
+It simulates a real-world marketplace environment helping identify trends in category performance, seller efficiency, and revenue distribution.
 
 ---
 
