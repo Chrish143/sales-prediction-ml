@@ -97,10 +97,10 @@ python src/main.py
 ```
 sales-prediction-ml/
 │
-├── src/                # Python scripts
-├── dashboard/          # Power BI dashboard (.pbix)
-├── images/             # Dashboard screenshots
-├── data/               # Dataset (if included)
+├── src/                
+├── dashboard/          
+├── images/         
+├── data/           
 ├── README.md
 ├── requirements.txt
 ```
