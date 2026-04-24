@@ -57,7 +57,6 @@ An interactive dashboard was built to visualize marketplace performance and key 
 ## 📸 Dashboard Preview
 
 ![Dashboard](images/dashboard1.png)
-![Dashboard](images/dashboard2.png)
 
 ---
 
