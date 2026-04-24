@@ -54,12 +54,6 @@ An interactive dashboard was built to visualize marketplace performance and key 
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard1.png)
-
----
-
 ## 📈 Key Insights
 
 * Identified top-performing product categories contributing the highest revenue
